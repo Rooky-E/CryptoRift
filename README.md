@@ -1,7 +1,7 @@
 ![CryptoRift](diagram.png)
 
 <p align="center">
-  <b>CryptoRift</b>, une plateforme on-premise “Data Lakehouse” dédiée aux données blockchain et crypto-actifs.
+  <b>CryptoRift</b>, <i>une plateforme on-premise “Data Lakehouse” dédiée aux données blockchain et crypto-actifs.</i>
 </p>
 
 ------------
