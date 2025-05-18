@@ -1,7 +1,7 @@
 ![CryptoRift](diagram.png)
 
 <p align="center">
-  <b>CryptoRift</b>
+  <b>ARCHITECTURE</b>
 </p>
 
 ------------
