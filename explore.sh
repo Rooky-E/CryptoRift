@@ -1,0 +1,20 @@
+#!/bin/bash
+# 🗺️ Explore StreamWave's magical folders
+
+echo "🌊 StreamWave Directory Explorer 🌊"
+echo "==================================="
+echo ""
+echo "🎪 Core Components:"
+ls -la | grep -E "flink|producer|superset|trino|docker"
+echo ""
+echo "✨ Creative Additions:"
+ls -la | grep -E "welcome|achievements|journey|assets"
+echo ""
+echo "🔮 Hidden Treasures:"
+ls -la .* 2>/dev/null | grep -E "future|streamwave"
+echo ""
+echo "💡 Try these commands:"
+echo "  ./achievements/track_progress.sh  - Check your achievements"
+echo "  ./journey/capture.sh             - Capture a milestone"
+echo "  cat welcome/ascii-art/*          - View ASCII art"
+echo ""

@@ -52,7 +52,7 @@ Picture this: **Clickstreams** flowing like digital rivers 🌊, captured by **K
 
 ### 🎨 **The Blueprint**
 
-![Architecture Diagram](img/streamwave.png)
+![Architecture Diagram](GALLERY/streamwave.png)
 
 ### 🌊 **The Flow Symphony**
 
