@@ -9,11 +9,15 @@
 
 ### *Where Data Flows Like Water, Insights Bloom Like Fire* 🔥
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3A86FF&center=true&vCenter=true&width=600&lines=Real-Time+Stream+Processing+⚡;Apache+Kafka+%2B+Flink+%2B+Iceberg+🚀;Query+at+the+Speed+of+Thought+💭;Visualize+Your+Data+Universe+🌌" alt="Typing SVG" />
+</p>
+
 ```ascii
-     ╔═══════════════════════════════════════════╗
-     ║  🎪 Welcome to the Data Circus 🎪         ║
-     ║  Where Streams Dance & Queries Sing       ║
-     ╚═══════════════════════════════════════════╝
+            ╔═══════════════════════════════════════════╗
+            ║       🎪 Welcome to the Data Circus 🎪    ║
+            ║    Where Streams Dance & Queries Sing     ║
+            ╚═══════════════════════════════════════════╝
 ```
 
 [**🚀 Launch**](#-ignition-sequence) • [**🎨 Architecture**](#-the-grand-design) • [**💫 Features**](#-cosmic-features) • [**🛸 Demo**](#-take-it-for-a-spin)
@@ -23,6 +27,21 @@
 ---
 
 ## 🎯 **Mission Control**
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    🎯 MISSION BRIEFING 🎯                       │
+├─────────────────────────────────────────────────────────────────┤
+│  ▸ OBJECTIVE: Master Real-Time Data Streaming                  │
+│  ▸ DIFFICULTY: ████████░░ 80% (Expert)                        │
+│  ▸ TIME TO DEPLOY: ⏱️  5 Minutes                               │
+│  ▸ REWARD: ∞ Streaming Capabilities                            │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 > *"In the realm of real-time data, we don't just process streams—we orchestrate symphonies."*
 
@@ -122,29 +141,51 @@ graph LR
 
 ### 🎬 **Act I: The Awakening**
 
+<div align="center">
+
 ```bash
-# 🧬 Clone the magic repository
-git clone https://github.com/Rooky-E/CryptoRift.git
+      ╭──────────────────────────────────────────╮
+      │   🧬 Clone the magic repository          │
+      ╰──────────────────────────────────────────╯
+              ⬇️
+git clone git@github.com:Rooky-E/streamwave.git
 cd streamwave
-
-# 🎪 Raise the curtain (Start all services)
+              ⬇️
+      ╭──────────────────────────────────────────╮
+      │   🎪 Raise the curtain (Start services)  │
+      ╰──────────────────────────────────────────╯
+              ⬇️
 docker-compose up -d
-
-# 🎭 Watch the show begin!
+              ⬇️
+      ╭──────────────────────────────────────────╮
+      │   🎭 Watch the show begin!               │
+      ╰──────────────────────────────────────────╯
+              ⬇️
 docker-compose logs -f
 ```
+
+</div>
 
 ### 🎪 **Act II: The Portal Gates**
 
 <div align="center">
 
-| 🌐 **Portal** | 🔗 **Gateway** | 🗝️ **Secret Words** |
-|---------------|----------------|---------------------|
-| 📡 **Kafka HQ** | [localhost:9021](http://localhost:9021) | `🔓 Open Sesame` |
-| ⚡ **Flink Lab** | [localhost:18081](http://localhost:18081) | `🔓 Public Access` |
-| 📦 **MinIO Vault** | [localhost:9001](http://localhost:9001) | `🔐 admin/password` |
-| 🦅 **Trino Nest** | [localhost:8080](http://localhost:8080) | `🔓 Fly Free` |
-| 🎨 **Superset Studio** | [localhost:8088](http://localhost:8088) | `🔐 admin/admin` |
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                        🌐 PORTAL DIRECTORY 🌐                         ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║                                                                       ║
+║   📡 Kafka HQ........... http://localhost:9021 ...... [🔓 OPEN]     ║
+║   ⚡ Flink Lab.......... http://localhost:18081 ..... [🔓 OPEN]     ║
+║   📦 MinIO Vault........ http://localhost:9001 ...... [🔐 SECURED]  ║
+║   🦅 Trino Nest......... http://localhost:8080 ...... [🔓 OPEN]     ║
+║   🎨 Superset Studio.... http://localhost:8088 ...... [🔐 SECURED]  ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+
+                         🗝️ Secret Credentials 🗝️
+                    MinIO: admin/password | Superset: admin/admin
+```
 
 </div>
 
@@ -236,13 +277,20 @@ LIMIT 10;
 
 <div align="center">
 
-| 🎯 **Mission** | 🚀 **Command** | 🎪 **What Happens** |
-|----------------|----------------|---------------------|
-| 🎬 **Start Show** | `docker-compose up -d` | All systems go! |
-| 🛑 **End Show** | `docker-compose down` | Curtains close |
-| 🔍 **Watch Logs** | `docker-compose logs -f` | Behind the scenes |
-| 🔄 **Restart Act** | `docker-compose restart` | Fresh performance |
-| 💾 **Check Storage** | `docker exec mc mc ls minio/` | Peek in the vault |
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                       🎮 COMMAND CENTER 🎮                        ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                                                   ┃
+┃  🎬 START SHOW     ▸ docker-compose up -d      [Launch all]      ┃
+┃  🛑 END SHOW       ▸ docker-compose down       [Stop all]        ┃
+┃  🔍 WATCH LOGS     ▸ docker-compose logs -f    [Live feed]       ┃
+┃  🔄 RESTART ACT    ▸ docker-compose restart    [Fresh start]     ┃
+┃  💾 CHECK STORAGE  ▸ docker exec mc mc ls minio/  [Peek vault]   ┃
+┃  🎯 RUN DEMO       ▸ ./demo/scenarios/ecommerce-rush.sh         ┃
+┃                                                                   ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
 </div>
 
@@ -283,15 +331,18 @@ flink:
 <div align="center">
 
 ```
-🔮 Coming Soon to a Container Near You 🔮
+╔══════════════════════════════════════════════════════════════════════╗
+║                    🔮 ROADMAP TO THE STARS 🔮                       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Q2 2025  ┃  🤖 ML Pipeline         ┃  [████████░░] 80%            ║
+║  Q3 2025  ┃  📊 Grafana Monitoring  ┃  [██████░░░░] 60%            ║
+║  Q3 2025  ┃  🔔 Smart Alerts        ┃  [████░░░░░░] 40%            ║
+║  Q4 2025  ┃  🌐 Multi-Cloud         ┃  [██░░░░░░░░] 20%            ║
+║                                                                      ║
+║            ⚡ VELOCITY: Warp Speed | 🎯 TARGET: The Future          ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
-
-| 🌟 **Feature** | 🎯 **Status** | 🚀 **ETA** |
-|----------------|---------------|------------|
-| 🤖 **ML Pipeline** | 🔄 In Progress | Q2 2025 |
-| 📊 **Grafana Monitoring** | 📝 Planned | Q3 2025 |
-| 🔔 **Smart Alerts** | 💭 Ideation | Q3 2025 |
-| 🌐 **Multi-Cloud** | 🧪 Research | Q4 2025 |
 
 </div>
 
